@@ -7,3 +7,4 @@ win64build
 
 ## qt-creator
 CMakeLists.txt.user*
+/.vs
